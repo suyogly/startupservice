@@ -47,7 +47,7 @@ export default function Page() {
 
                 <Reveal delay={0.14}>
                   <p className="mt-6 max-w-3xl text-lg text-zinc-200">
-                    As a sister wing of Professional Financial Services (PFS), we handle the operational complexity
+                    Formerly part of Professional Financial Services (PFS), we handle the operational complexity
                     so you can focus on building your product and achieving your business goals.
                   </p>
                 </Reveal>
@@ -106,7 +106,7 @@ export default function Page() {
 
               <Reveal delay={0.14}>
                 <p className="mt-4 text-muted-foreground">
-                  Startup Management Services (SMS) is a sister wing of Professional Financial Services (PFS), built to
+                  Startup Management Services (SMS) was formerly part of Professional Financial Services (PFS), built to
                   provide startups and growing businesses with end-to-end operational support. From accounting and IT to
                   legal services, marketing, logistics, workplace facilities, and research support, SMS handles auxiliary
                   tasks so you can focus on your core competencies — without the overhead of in-house hiring or additional

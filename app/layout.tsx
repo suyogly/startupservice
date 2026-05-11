@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Startup Management Services (SMS)",
-  description: "A sister wing of Professional Financial Services (PFS) providing end-to-end startup support — accounting, IT, management, legal, marketing, logistics, and workspace solutions.",
+  description: "Formerly part of Professional Financial Services (PFS), providing end-to-end startup support — accounting, IT, management, legal, marketing, logistics, and workspace solutions.",
 };
 
 export default function RootLayout({

@@ -36,7 +36,7 @@ export default function Footer() {
               <span>Startup Management Services</span>
             </Link>
             <p className="text-sm text-muted-foreground">
-              End-to-end startup support — accounting, IT, legal, marketing, and workspace solutions. A sister wing of PFS.
+              End-to-end startup support — accounting, IT, legal, marketing, and workspace solutions. Formerly Professional Financial Services (PFS).
             </p>
           </div>
 
