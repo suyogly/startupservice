@@ -26,7 +26,6 @@ function IconLinkedIn({ className }: { className?: string }) {
 }
 
 export default function Footer() {
-  const year = new Date().getFullYear()
   return (
     <footer className="border-t bg-white">
       <div className="container mx-auto px-4 py-12">
@@ -71,7 +70,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t pt-6 text-xs text-muted-foreground">
           <div className="flex flex-col justify-between gap-4 sm:flex-row">
-            <p>{`Copyright © ${year}. All rights reserved.`}</p>
+            <p>Copyright © 2023. All rights reserved.</p>
             <p>Startup Management Services Pvt Ltd · Lalitpur, Nepal · +977-9860519083 / +977-9843736921</p>
           </div>
         </div>
